@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="genre">Genres: </string>
+    <string name="app_Category">App Categories</string>
+    <string name="top_paid_app">Top Paid Apps</string>
+    <string name="app_details">App Details</string>
+
+</resources>
